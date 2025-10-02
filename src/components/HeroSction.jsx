@@ -12,7 +12,7 @@ const HeroSction = () => {
         </button>
       </div>
       <div className="mb-10 md:mb-0">
-        <img src="/public/pngwing 1.png" alt="" />
+        <img src="/pngwing 1.png" alt="" />
       </div>
     </div>
   );
